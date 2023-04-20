@@ -8,6 +8,7 @@ This project explores ten years of patient information to gain insights on prima
 
 
 ### Stock K-Line Pattern Detection
-decription goes here
-<kbd> <br> Python <br> </kbd> <kbd>
+decription goes here \
+\
+<kbd> <br> Python <br> </kbd> 
 <!--- ![data visualization](/path/to/image.png "Text to show on mouseover"). -->
