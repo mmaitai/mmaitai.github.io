@@ -9,7 +9,7 @@ This project explores ten years of patient information to gain insights on prima
 ### How Can a Wellness Technology Company Play It Smart? ###
 Description \
 \
-<kbd> <br> Python <br> </kbd> <kbd> <br> Pandas <br> </kbd> <kbd> <br> Numpy <br> </kbd> <kbd> <br> Matplotlib <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  \
+<kbd> <br> SQL <br> </kbd> <kbd> <br> Python <br> </kbd> <kbd> <br> Pandas <br> </kbd> <kbd> <br> Numpy <br> </kbd> <kbd> <br> Matplotlib <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  \
 [View Code and Report](https://app.datacamp.com/workspace/w/2c4024e5-32d0-4e97-b104-700939e6c543/edit)
 
 ### Stock K-Line Pattern Detection
