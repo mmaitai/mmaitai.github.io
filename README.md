@@ -1,6 +1,5 @@
 ## Selected Data Science projects
 
-### 
 
 ### Reducing Hospital Readmissions Competition
 This project explores ten years of patient information to gain insights on primary diagnosis across all age groups and the effect or hospital readmissions. The project focuses on diabetic patients with A1c test as the hospital readmission indicator. \
