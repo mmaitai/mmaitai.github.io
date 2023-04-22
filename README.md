@@ -1,5 +1,7 @@
 ## Selected Data Science projects
 
+### 
+
 ### Reducing Hospital Readmissions Competition
 This project explores ten years of patient information to gain insights on primary diagnosis across all age groups and the effect or hospital readmissions. The project focuses on diabetic patients with A1c test as the hospital readmission indicator. \
 \
@@ -15,5 +17,5 @@ Description \
 ### Stock K-Line Pattern Detection
 decription goes here \
 \
-<kbd> <br> Python <br> </kbd> 
+<kbd> <br> Python <br> </kbd> <kbd> <br> API <br> </kbd> 
 <!--- ![data visualization](/path/to/image.png "Text to show on mouseover"). -->
