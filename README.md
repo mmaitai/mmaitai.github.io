@@ -6,6 +6,11 @@ This project explores ten years of patient information to gain insights on prima
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  \
 [View Code and Report](https://app.datacamp.com/workspace/w/52988f5d-7134-4f27-b4d3-fc87ca1875d0/edit)
 
+### How Can a Wellness Technology Company Play It Smart? ###
+Description \
+\
+<kbd> <br> Python <br> </kbd> <kbd> <br> Pandas <br> </kbd> <kbd> <br> Numpy <br> </kbd> <kbd> <br> Matplotlib <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  \
+[View Code and Report](https://app.datacamp.com/workspace/w/2c4024e5-32d0-4e97-b104-700939e6c543/edit)
 
 ### Stock K-Line Pattern Detection
 decription goes here \
