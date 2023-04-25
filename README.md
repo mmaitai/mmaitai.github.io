@@ -7,6 +7,7 @@ Using data from sales tracking system to search for the best sales stretegies fo
 
 
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
+[R](#){: .btn .btn-outline--primary} [Tidyverse](#){: .btn .btn-outline--primary}
 [View Code and Report](https://app.datacamp.com/workspace/w/2b875065-b46d-4c14-bd5e-7f05b7003ebb/edit)
 
 ---
