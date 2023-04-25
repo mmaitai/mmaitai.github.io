@@ -20,7 +20,7 @@ Description \
 ### HR Attrition Dashboard ####
 decription goes here \
 \
-<kbd> <br> Python <br> </kbd> <kbd> <br> Tableau <br> </kbd> 
+<kbd> <br> Python <br> </kbd> <kbd> <br> Tableau <br> </kbd>  \
 [View Dashboard](https://public.tableau.com/views/EmployeeDashboard_16824066270040/AttritionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
