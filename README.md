@@ -3,8 +3,7 @@
 ### Products Sales Analysis 
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need too learn quickly what works and what doesn't. Written report, data visualization and presentation deck are the outcome of the project.
 
-<img width="1459" alt="combined" src="https://user-images.githubusercontent.com/107354453/234217708-d2c486b3-3583-4513-b632-f1b7428629d0.png">
-<img width="1500" alt="combined_2" src="https://user-images.githubusercontent.com/107354453/234220295-68d9fb62-8c20-4590-903a-6388940a4b17.png">
+<img width="1673" alt="combined_3" src="https://user-images.githubusercontent.com/107354453/234222195-87088f08-39d2-49d5-85fd-41ab787c9eee.png">
 
 
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
