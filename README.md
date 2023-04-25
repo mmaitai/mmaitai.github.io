@@ -20,9 +20,10 @@ Description \
 ### HR Attrition Dashboard ####
 decription goes here \
 \
+
+<img width="1622" alt="Screen Shot 2023-04-25 at 2 06 48 PM" src="https://user-images.githubusercontent.com/107354453/234203245-3f45f253-2e7a-426f-a8dc-50f1f66539d5.png"> \
 <kbd> <br> Python <br> </kbd> <kbd> <br> Tableau <br> </kbd>  \
 [View Dashboard](https://public.tableau.com/views/EmployeeDashboard_16824066270040/AttritionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 
 ### Stock K-Line Pattern Detection ####
 decription goes here \
