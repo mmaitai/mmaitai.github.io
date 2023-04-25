@@ -18,8 +18,7 @@ Description \
 [View Code and Report](https://app.datacamp.com/workspace/w/2c4024e5-32d0-4e97-b104-700939e6c543/edit)
 
 ### HR Attrition Dashboard ####
-decription goes here \
-\
+This dashboard is designed to help monitoring employees attrition across departments in order to consider if further action needed. Yearly attrition metric uses to measure the performance of the action. Before uploading data to tableau, the data was explored and cleaned with Python to ensure that the data is ready for further dashboard analysis.
 
 <img width="1622" alt="Screen Shot 2023-04-25 at 2 06 48 PM" src="https://user-images.githubusercontent.com/107354453/234203245-3f45f253-2e7a-426f-a8dc-50f1f66539d5.png"> \
 <kbd> <br> Python <br> </kbd> <kbd> <br> Tableau <br> </kbd>  \
