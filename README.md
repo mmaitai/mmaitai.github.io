@@ -1,6 +1,6 @@
 ## Selected Data Science projects
 
-### Products Sales: best way to reach out to customers.
+### Products Sales: Best way to reach out to customers.
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need too learn quickly what works and what doesn't. Written report, data visualization and presentation deck are the outcome of the project.
 
 <img width="1673" alt="combined_3" src="https://user-images.githubusercontent.com/107354453/234222195-87088f08-39d2-49d5-85fd-41ab787c9eee.png">
@@ -31,7 +31,7 @@ Exploring smart watch usage and user behaviors to gain useful insigh for marking
 
 ---
 
-### HR Attrition Dashboard: managing employee attrition
+### HR Dashboard: Managing employee attrition
 This dashboard is designed to help monitoring employees attrition across departments in order to consider if further action needed. Yearly attrition metric uses to measure the performance of the action. Before uploading data to tableau, the data was explored and cleaned with Python to ensure that the data is ready for further dashboard analysis.
 
 <img width="1622" alt="Screen Shot 2023-04-25 at 2 06 48 PM" src="https://user-images.githubusercontent.com/107354453/234203245-3f45f253-2e7a-426f-a8dc-50f1f66539d5.png"> <br>
@@ -41,7 +41,7 @@ This dashboard is designed to help monitoring employees attrition across departm
 ---
 
 ### Stock K-Line Pattern Detection ####
-decription goes here. 
-<br>
+This project aim to back test to verify if the proposed K-Line stock pattern causes the profits. The interested crytocurrency data was pulled from Binance API. The date and time that pattern found will be logged in the text file. The profit summary is printed out at the end.  
+
 <kbd> <br> Python <br> </kbd> <kbd> <br> API <br> </kbd> 
 <!--- ![data visualization](/path/to/image.png "Text to show on mouseover"). -->
