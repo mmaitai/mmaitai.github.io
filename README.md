@@ -3,7 +3,7 @@
 ### Products Sales Analysis 
 
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
-[View Report](https://app.datacamp.com/workspace/w/52988f5d-7134-4f27-b4d3-fc87ca1875d0/edit)
+[View Report](https://app.datacamp.com/workspace/w/52988f5d-7134-4f27-b4d3-fc87ca1875d0)
 
 ---
 
@@ -11,7 +11,7 @@
 This project explores ten years of patient information to gain insights on primary diagnosis across all age groups and the effect or hospital readmissions. The project focuses on diabetic patients with A1c test as the hospital readmission indicator.  
 <br>
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
-[View Code and Report](https://app.datacamp.com/workspace/w/52988f5d-7134-4f27-b4d3-fc87ca1875d0/edit) <br>
+[View Code and Report](https://app.datacamp.com/workspace/w/52988f5d-7134-4f27-b4d3-fc87ca1875d0) <br>
 
 ---
 
@@ -21,7 +21,7 @@ Exploring smart watch usage and user behaviors to gain useful insigh for marking
 <img width="988" alt="combined_viz" src="https://user-images.githubusercontent.com/107354453/234211361-fe025d4f-c328-4ddd-b08c-c213290e2c7c.png">
 
 <kbd> <br> SQL <br> </kbd> <kbd> <br> Python <br> </kbd> <kbd> <br> Pandas <br> </kbd> <kbd> <br> Numpy <br> </kbd> <kbd> <br> Matplotlib <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
-[View Code and Report](https://app.datacamp.com/workspace/w/2c4024e5-32d0-4e97-b104-700939e6c543/edit) <br>
+[View Code and Report](https://app.datacamp.com/workspace/w/2c4024e5-32d0-4e97-b104-700939e6c543) <br>
 
 ---
 
