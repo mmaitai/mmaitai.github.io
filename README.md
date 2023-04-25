@@ -1,8 +1,5 @@
 ## Selected Data Science projects
 
-your text here
-{: .alert .alert--primary}
-
 ### Products Sales: Best way to launch new products to customers.
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need too learn quickly what works and what doesn't. Written report, data visualization and presentation deck are the outcome of the project.
 
@@ -10,9 +7,6 @@ Using data from sales tracking system to search for the best sales stretegies fo
 
 
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
-
-[primary](#){: .btn .btn-outline--primary}
-
 [View Code and Report](https://app.datacamp.com/workspace/w/2b875065-b46d-4c14-bd5e-7f05b7003ebb/edit)
 
 ---
