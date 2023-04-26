@@ -41,7 +41,7 @@ This dashboard is designed to help monitoring employees attrition across departm
 ---
 
 ### Stock K-Line Pattern Detection ####
-This project aim to back test to verify if the proposed K-Line stock pattern causes the profits. The interested crytocurrency data was pulled from Binance API. The date and time that pattern found will be logged in the text file. The profit summary is printed out at the end.  
+This project aim to back test to verify if the proposed K-Line stock pattern causes the profits. The interested crytocurrency data was pulled from Binance API. The date and time that pattern found will be logged in the text file. The profit summary is printed out at the end for consideration if further action is needed.
 
 <kbd> <br> Python <br> </kbd> <kbd> <br> API <br> </kbd>  <br>
 [View Code](https://github.com/mmaitai/cryto_expr/blob/main/binance_backtest.py)
