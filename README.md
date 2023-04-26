@@ -3,7 +3,7 @@
 ### Products Sales: Best way to launch new products.
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need to learn quickly what works and what doesn't. The project explores product sales regarding different communication method: Call, Email, Email+Call. Written report, data visualization and presentation deck are the outcome of the project.
 
-<img width="1673" alt="combined_3" src="https://user-images.githubusercontent.com/107354453/234222195-87088f08-39d2-49d5-85fd-41ab787c9eee.png">
+<img width="1673" alt="Products Sales" src="https://user-images.githubusercontent.com/107354453/234222195-87088f08-39d2-49d5-85fd-41ab787c9eee.png">
 
 
 <kbd> <br> R <br> </kbd> <kbd> <br> Tidyverse <br> </kbd> <kbd> <br> Jupyter <br> </kbd>  <br>
@@ -34,9 +34,18 @@ Exploring smart watch usage and user behaviors to gain useful insight for market
 ### HR Dashboard: Managing employee attrition
 This dashboard is designed to help monitoring employees attrition across departments in order to consider if further action needed. Yearly attrition metric uses to measure the performance of the action. Before uploading data to tableau, the data was explored and cleaned with Python to ensure that the data is ready for further dashboard analysis.
 
-<img width="1622" alt="Screen Shot 2023-04-25 at 2 06 48 PM" src="https://user-images.githubusercontent.com/107354453/234203245-3f45f253-2e7a-426f-a8dc-50f1f66539d5.png"> <br>
+<img width="1622" alt="HR Dashboard" src="https://user-images.githubusercontent.com/107354453/234203245-3f45f253-2e7a-426f-a8dc-50f1f66539d5.png"> <br>
 <kbd> <br> Python <br> </kbd> <kbd> <br> Tableau <br> </kbd>  <br>
 [View Dashboard](https://public.tableau.com/views/EmployeeDashboard_16824066270040/AttritionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) <br>
+
+---
+
+### Sales Data Exploration and Summary
+The project is a quick sales data study. Pivot table is used to understand monthly and yearly total revenues in each product line. Additional summary i.e., status tracking, deal size is summarized for further marketing strategy development.
+
+<img width="1620" alt="Sales Data Exploration" src="https://user-images.githubusercontent.com/107354453/234474428-958208a7-6eb0-444d-9614-6b59e3cdf848.png">
+
+<kbd> <br> Google Sheet <br> </kbd> <kbd> <br> Pivot Table <br> </kbd> <kbd> <br> Data Visualization <br> </kbd>  <br>
 
 ---
 
