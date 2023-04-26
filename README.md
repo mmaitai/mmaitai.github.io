@@ -1,6 +1,6 @@
 ## Selected Data Science projects
 
-### Products Sales: Best way to launch new products to customers.
+### Products Sales: Best way to launch new products.
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need too learn quickly what works and what doesn't. Written report, data visualization and presentation deck are the outcome of the project.
 
 <img width="1673" alt="combined_3" src="https://user-images.githubusercontent.com/107354453/234222195-87088f08-39d2-49d5-85fd-41ab787c9eee.png">
