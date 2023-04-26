@@ -5,4 +5,7 @@ description: Continually curiousity-driven data learner. I believe in logical an
   <a href="https://docs.google.com/document/d/1zHmYjUTZRmZ5pSH8gPN2xnBxLNhJbmByBcYzLoPJG9k/edit?usp=sharing">View my CV</a>
 
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 #google analytics: UA-000
