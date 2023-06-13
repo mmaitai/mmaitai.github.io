@@ -10,6 +10,11 @@ Using data from sales tracking system to search for the best sales stretegies fo
 [View Code and Report](https://app.datacamp.com/workspace/w/2b875065-b46d-4c14-bd5e-7f05b7003ebb/edit)
 
 ---
+### User Retention in Cat and Cookies Game
+The Analysis focuses on the impact on player retention when the in-app purchase gate was placed. The experiment was done using A/B test at level 30 and level 40. These gates result in causing users to break from playing the game until they make an in-app purchases or wait a certain amount of time before progress to the next level.
+
+<kbd> <br> Python <br> </kbd> <kbd> <br> Pandas <br> </kbd> <kbd> <br> Colab <br> </kbd>  <br>
+[View Code and Report](https://colab.research.google.com/drive/1qg082pag0R6ylXOHl8yNLcPXSHTHGDQL?usp=sharing) <br>
 
 ### Understand Hospital Readmissions: How can we save hospital resouces by reducing hospital readmission?
 This project explores ten years of patient information to gain insights on primary diagnosis across all age groups and the effect on hospital readmissions. The project focuses on diabetic patients with A1c test as the hospital readmission indicator.  
