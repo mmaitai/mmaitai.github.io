@@ -55,6 +55,16 @@ The project is a quick sales data study. Pivot table is used to understand month
 <kbd> <br> Google Sheet <br> </kbd> <kbd> <br> Pivot Table <br> </kbd> <kbd> <br> Data Visualization <br> </kbd>  <br>
 
 ---
+### Object Dectection Deep Learning: Find the building
+
+This project is part of 2-day-AIAT Hackathon in Kaggle. The goal is to detect if there are buildings in sattelite images. The deep learning uses FastAI framework with Resnet18 as the pretrained model. The result is 88.9% in F1 score metric. For further development, we could try more accurate pretrained model like Eva Series. We could also try ensemble learning method.
+
+![download](https://github.com/mmaitai/mmaitai.github.io/assets/107354453/49293464-20b9-49b2-9931-67b1105637a0)
+
+<kbd> <br> Python <br> </kbd> <kbd> <br> FastAI <br> </kbd> <kbd> <br> Kaggle API <br> </kbd> <kbd> <br> Colab <br> </kbd>  <br> 
+
+
+---
 
 ### Stock K-Line Pattern Detection ####
 This project aim to back test to verify if the proposed K-Line stock pattern causes the profits. The interested crytocurrency data was pulled from Binance API. The date and time that pattern found will be logged in the text file. The profit summary is printed out at the end for consideration if further action is needed.
