@@ -57,12 +57,12 @@ The project is a quick sales data study. Pivot table is used to understand month
 ---
 ### Object Dectection Deep Learning: Find the building
 
-This project is part of 2-day-AIAT Hackathon in Kaggle. The goal is to detect if there are buildings in sattelite images. The deep learning uses FastAI framework with Resnet18 as the pretrained model. The result is 88.9% in F1 score metric. For further development, we could try more accurate pretrained model like Eva Series. We could also try ensemble learning method.
+This project is part of 2-day-AIAT Hackathon in Kaggle. The goal is to detect if there are buildings in sattelite images. The deep learning uses FastAI framework with Resnet18 as the pretrained model. The result is 89.1% in F1 score metric. For further development, we could try more accurate pretrained model like Eva Series. We could also try ensemble learning method.
 
 ![download](https://github.com/mmaitai/mmaitai.github.io/assets/107354453/49293464-20b9-49b2-9931-67b1105637a0)
 
 <kbd> <br> Python <br> </kbd> <kbd> <br> FastAI <br> </kbd> <kbd> <br> Kaggle API <br> </kbd> <kbd> <br> Colab <br> </kbd>  <br> 
-
+[View Code](https://colab.research.google.com/drive/1Fs23iFsxRy0Vnn5a3VagBcm-am-C3yTk?usp=sharing) <br>
 
 ---
 
