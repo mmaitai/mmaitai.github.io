@@ -1,5 +1,16 @@
 ## Selected Data Science projects
 
+### Object Dectection Deep Learning: Find the building
+
+This project is part of 2-day-AIAT Hackathon in Kaggle. The goal is to detect if there are buildings in sattelite images. The deep learning uses FastAI framework with Resnet18 as the pretrained model. The result is 89.1% in F1 score metric. For further development, we could try more accurate pretrained model like Eva Series. We could also try ensemble learning method.
+
+![download](https://github.com/mmaitai/mmaitai.github.io/assets/107354453/49293464-20b9-49b2-9931-67b1105637a0)
+
+<kbd> <br> Python <br> </kbd> <kbd> <br> FastAI <br> </kbd> <kbd> <br> Kaggle API <br> </kbd> <kbd> <br> Colab <br> </kbd>  <br> 
+[View Code](https://colab.research.google.com/drive/1Fs23iFsxRy0Vnn5a3VagBcm-am-C3yTk?usp=sharing) <br>
+
+---
+
 ### Products Sales: Best way to launch new products.
 Using data from sales tracking system to search for the best sales stretegies for launching a new product. As customers buying behaviors are changing, the company need to learn quickly what works and what doesn't. The project explores product sales regarding different communication method: Call, Email, Email+Call. Written report, data visualization and presentation deck are the outcome of the project.
 
@@ -60,16 +71,6 @@ The project is a quick sales data study. Pivot table is used to understand month
 <img width="1620" alt="Sales Data Exploration" src="https://user-images.githubusercontent.com/107354453/234474428-958208a7-6eb0-444d-9614-6b59e3cdf848.png">
 
 <kbd> <br> Google Sheet <br> </kbd> <kbd> <br> Pivot Table <br> </kbd> <kbd> <br> Data Visualization <br> </kbd>  <br>
-
----
-### Object Dectection Deep Learning: Find the building
-
-This project is part of 2-day-AIAT Hackathon in Kaggle. The goal is to detect if there are buildings in sattelite images. The deep learning uses FastAI framework with Resnet18 as the pretrained model. The result is 89.1% in F1 score metric. For further development, we could try more accurate pretrained model like Eva Series. We could also try ensemble learning method.
-
-![download](https://github.com/mmaitai/mmaitai.github.io/assets/107354453/49293464-20b9-49b2-9931-67b1105637a0)
-
-<kbd> <br> Python <br> </kbd> <kbd> <br> FastAI <br> </kbd> <kbd> <br> Kaggle API <br> </kbd> <kbd> <br> Colab <br> </kbd>  <br> 
-[View Code](https://colab.research.google.com/drive/1Fs23iFsxRy0Vnn5a3VagBcm-am-C3yTk?usp=sharing) <br>
 
 ---
 
