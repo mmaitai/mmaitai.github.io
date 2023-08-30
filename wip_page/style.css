@@ -1,0 +1,44 @@
+body {
+    background-color: #FA5B3D;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+div p {
+    color: #0C24FF;
+    /* justify-content: flex-start; */
+}
+
+input[type=email] {
+    line-height: 2.4em;
+    width: 20em;
+    font-family: 'Marcellus', serif;
+    font-size: 1em;
+    border: 1px solid black;
+}
+
+input::placeholder {
+    font-weight: light;
+    color: #0C24FF;
+}
+
+#logo {
+    width: 84px;
+    height: 165px;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+#button-arrrow {
+    width: 42px;
+}
+
+
+@media(min-width: 450) and (max-width: 750) {
+    input {
+        width: 10px;
+    }
+}
