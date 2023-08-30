@@ -22,8 +22,9 @@ input::placeholder {
 }
 
 #logo {
-    width: 84px;
-    height: 165px;
+    /* width: 84px;
+    height: 165px; */
+    width: 3rem;
 }
 
 button {
@@ -32,13 +33,14 @@ button {
     background: none;
 }
 
-#button-arrrow {
+img {
     width: 42px;
 }
 
 
-@media(min-width: 450) and (max-width: 750) {
+
+/* @media(min-width: 450) and (max-width: 750) {
     input {
         width: 10px;
     }
-}
+} */
